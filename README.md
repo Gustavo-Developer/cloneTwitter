@@ -21,4 +21,4 @@ Criação responsiva da interface do Twitter. Ultilização da metodologia Mobil
  🚩Stick Box (library)
 
  
-  <img src="./ui-twitter/public/final.png" width="400px"> 
+  <img src="./ui-twitter/public/Final.png" width="400px"> 
