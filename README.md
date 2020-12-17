@@ -2,11 +2,9 @@
 
 Aula Ministrada por @Rocketseat 🚀
 <br>  
-<br>  
-<br>
+
   
 ### Descrição 
-<
 Criação responsiva da interface do Twitter. Ultilização da metodologia Mobile First.
   
   
